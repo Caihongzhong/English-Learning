@@ -1,0 +1,457 @@
+软件测试中涉及的英语
+文章分类:软件开发管理 
+Acceptance testing : 验收测试 
+
+Accessibility test : 软体适用性测试 
+
+Ad hoc testing     : 随机测试 
+
+Algorithm analysis : 算法分析 
+
+Alpha testing      : α测试 
+
+Anomaly            : 异常 
+
+Artifact           : 工件 
+
+Automated Testing  : 自动化测试 
+
+Architecture       : 构架 
+
+Assertion checking : 断言检查 
+
+Audit              : 审计  
+
+Application under test (AUT)   : 所测试的应用程序 
+
+
+Baseline           : 基线 
+
+Behaviour          : 行为 
+
+Benchmark          : 基准 
+
+Beta testing       : β测试 
+
+Best practise      : 最佳实践 
+
+Black box testing  : 黑盒测试 
+
+Blocking bug       : 阻碍性错误  
+
+Bottom-up testing  : 自底向上测试 
+
+Branch coverage    : 分支覆盖 
+
+Brute force testing :  强力测试  
+
+Bug                 :  错误 
+
+Bug report          :  错误报告 
+
+Bug tracking system :  错误跟踪系统 
+
+Build               :  工作版本（内部小版本） 
+
+Boundary values     :  边界值 
+
+Buddy test          :  合伙测试 
+
+Buffer              :  缓冲 
+
+Bug bash            :  错误大扫除 
+
+Build-in            :  内置 
+
+Build Verfication tests(BVTs) : 版本验证测试 
+
+
+Cause-effect graph  :  因果图   
+
+Capture/Replay Tool :  捕获 / 回放工具 
+
+Character Set       :  字符集 
+
+Capability Maturity Model (CMM)  : 能力成熟度模型 
+
+Capability Maturity Model Integration (CMMI) : 能力成熟度模型整合 
+
+Closeout  : 收尾 
+
+Code coverage   : 代码覆盖 
+
+Code page       : 代码页 
+
+Code rule       : 编码规范 
+
+Code sytle      : 编码风格 
+
+Common sense    : 常识 
+
+Compatibility Testing  : 兼容性测试 
+
+Component testing      : 组件测试 
+
+Condition coverage     : 条件覆盖 
+
+Configuration testing  : 配置测试 
+
+Control flow graph     : 控制流程图 
+
+Concurrency user       : 并发用户 
+
+Configuration item     : 配置项 
+
+Core team              : 核心小组 
+
+Customer-focused mindset : 客户为中心的理念体系 
+
+Crash                    : 崩溃 
+
+Criticality analysis     : 致命度分析 
+
+Cyclomatic complexity    : 圈复杂度 
+
+
+Data Flow Analysis       : 数据流分析 
+
+Decision coverage        : 判定覆盖 
+
+Debug     :  调试 
+
+Defect    :  缺陷 
+
+defect density  : 缺陷密度 
+
+Deployment      : 部署  
+
+Desk checking   : 桌前检查  
+
+Dynamic analysis : 动态分析  
+
+
+Entry criteria   : 准入条件 
+
+Equivalence class : 等价类 
+
+Equivalence partition testing  : 等价划分测试 
+
+Error : 错误 
+
+Error guessing : 错误猜测 
+
+Error seeding  : 错误播种 
+
+Exception    : 异常 / 例外 
+
+Exception handlers : 异常处理器 
+
+Exhaustive testing : 穷尽测试 
+
+Exploratory testing : 探索性测试 
+
+Event-driven        : 事件驱动  
+
+Envisioning Phase   : 构想阶段 
+
+
+Failure  : 失效 
+
+Fault    : 故障 
+
+Field testing  : 现场测试 
+
+Framework      : 框架 
+
+Functional testing : 功能测试 
+
+
+Hard-coding  : 硬编码  
+
+Hotfix       : 热补丁  
+
+
+G11N(Globalization)   : 全球化 
+
+Gap analysis  : 差距分析 
+
+Garbage characters : 乱码字符 
+
+Glossary : 术语表 
+
+Glass-box testing  : 白箱测试或白盒测试 
+
+GUI(Graphical User Interface)  :  图形用户界面 
+
+
+I18N(Internationalization) : 国际化 
+
+Incremental testing   :  渐增测试 
+
+Installing testing    : 安装测试 
+
+Integration testing   : 集成测试 
+
+Interface  : 接口 
+
+Inspection : 审查 
+
+Issue      : 问题 
+
+Iteration  : 迭代  
+
+Iterative development  : 迭代开发 
+
+
+Key concepts  : 关键概念 
+
+Key Process Area : 关键过程区域 
+
+Keyword driven testing : 关键字驱动测试 
+
+Kick-off meeting       : 启动会议 
+
+
+Lag time  : 延迟时间 
+
+Lead time : 前置时间 
+
+L10N(Localization) : 本地化 
+
+Localizability testing  : 本地化能力测试 
+
+Localization testing    : 本地化测试 
+
+Load testing  : 负载测试 
+
+
+Maintenance :  维护 
+
+Maintainability  : 可维护性 
+
+Master project schedule : 总体项目方案 
+
+Measurement : 度量 
+
+Memory leak : 内存泄漏 
+
+Migration testing  : 迁移测试 
+
+Milestone  : 里程碑 
+
+Mock up    : 模型，原型 
+
+Monkey testing  : 跳跃式测试 
+
+Module testing  : 模块测试 
+
+
+Negative Testing : 逆向测试 ,  反向测试 ,  负面测试  
+
+N/A(Not applicable) : 不适用的 
+
+
+Off-the-shelf software  : 套装软件 
+
+
+Pair Programming : 成对编程 
+
+Path coverage    : 路径覆盖 
+
+Peer review      : 同行评审 
+
+Performance      : 性能 
+
+Performance indicator : 性能（绩效）指标 
+
+Performance testing   : 性能测试 
+
+Pilot    :  试验 
+
+Pilot testing : 引导测试 
+
+Portability   : 可移植性 
+
+Positive testing  : 正向测试 
+
+Postcondition     : 后置条件 
+
+Pseudo code : 伪代码 
+
+Precondition : 前提条件 
+
+Priority     : 优先权  
+
+Prototype    : 原型 
+
+
+Quality assurance(QA) : 质量保证 
+
+Quality Control(QC)  : 质量控制 
+
+
+Recovery testing : 恢复测试 
+
+Refactoring   : 重构 
+
+Regression testing : 回归测试 
+
+Release  : 发布 
+
+Release note : 版本说明 
+
+Reliability  : 可靠性 
+
+Return of Investment（ ROI ） :  投资回报率 
+
+Review  :  评审 
+
+Requirements-based testing : 基于需求的测试 
+
+Requirements management tool : 需求管理工具 
+
+Risk assessment  : 风险评估  
+
+Root Cause Analysis(RCA)  : 根本原因分析 
+
+Robustness  : 强健性  
+
+
+Sanity testing : 健全测试 
+
+Screen shot  : 抓屏、截图 
+
+Severity     : 严重性 
+
+Security testing  : 安全性测试 
+
+Shipment : 发布 
+
+Smoke testing : 冒烟测试 
+
+Software life cycle  : 软件生命周期 
+
+Software development plan(SDP) : 软件开发计划 
+
+Static testing : 静态测试 
+
+Simulation   : 模拟 
+
+Simulator    : 模拟器 
+
+SLA(Service level agreement)  : 服务级别协议 
+
+Software development process  : 软件开发过程 
+
+Source code  : 源代码 
+
+Specification : 规格说明书 
+
+Spiral model : 螺旋模型 
+
+Statement coverage : 语句覆盖 
+
+Stepwise refinement : 逐步优化 
+
+Stress Testing  : 压力测试 
+
+Structural coverage : 结构化覆盖 
+
+Stub  : 桩 
+
+Synchronization  : 同步 
+
+Syntax testing   : 语法分析 
+
+System analysis  : 系统分析 
+
+System design    : 系统设计 
+
+System integration  : 系统集成 
+
+System Testing      : 系统测试 
+
+
+Test :测试 
+
+Testing bed: 测试平台 
+
+Test case  : 测试用例 
+
+Testing coverage : 测试覆盖 
+
+Test design  : 测试设计 
+
+Test driver  : 测试驱动 
+
+Testing environment : 测试环境 
+
+Test infrastructure : 测试基础建设 
+
+Testing item  : 测试项 
+
+Testing plan  : 测试计划 
+
+Testing procedure : 测试过程 
+
+Test scenario  : 测试场景 
+
+Test script : 测试脚本 
+
+Test strategy : 测试策略 
+
+Test suite    : 测试包 
+
+Test target   : 测试目标 
+
+Testability   : 可测试性 
+
+Testware      : 测试工具 
+
+Top-down testing : 自顶向下测试 
+
+Thread testing   : 线程测试 
+
+Traceability     : 可跟踪性 
+
+Traceability matrix : 跟踪矩阵 
+
+Trade-off  : 平衡 
+
+
+Unit testing : 单元测试 
+
+User interface(UI) : 用户界面 
+
+Usability testing  : 可用性测试 
+
+Usage scenario     : 使用场景 
+
+User acceptance Test : 用户验收测试 
+
+User profile  : 用户信息 
+
+User scenario : 用户场景 
+
+
+Version :  版本 
+
+Virtual user : 虚拟用户 
+
+Volume testing : 容量测试  
+
+V&V (Verification & Validation) : 验证 & 确认 
+
+
+Walkthrough  : 走读 
+
+Waterfall model : 瀑布模型 
+
+White box testing : 白盒测试 
+
+Work breakdown structure (WBS) : 任务分解结构 
+
+Web testing : 网站测试 
+
+
+Zero bug bounce (ZBB) : 零错误反弹 
